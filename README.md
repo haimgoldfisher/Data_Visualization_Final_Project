@@ -47,7 +47,8 @@ Final project of the course Data Visualization, Ariel university.
   
  <code><img height="40"  src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/python/python.png"></code> 
  <code><img height="40" src="https://jupyter.org/assets/main-logo.svg"/></code>
- <code><img height="40" width="80" src="https://pandas.pydata.org/static/img/pandas_white.svg"/></code>
+ <code><img height="40" src="https://cdn.worldvectorlogo.com/logos/numpy.svg"/></code>
+ <code><img height="40" width="80" src="https://upload.wikimedia.org/wikipedia/commons/thumb/e/ed/Pandas_logo.svg/1200px-Pandas_logo.svg.png"/></code>
  <code><img height="40" src="http://raden.fke.utm.my/_/rsrc/1540088596925/blog/anacondanavigatorlaunchericon/anaconda-icon-1024x1024.png?height=200&width=200"/></code>
  <code><img height="40" src="https://upload.wikimedia.org/wikipedia/commons/thumb/0/01/Created_with_Matplotlib-logo.svg/1024px-Created_with_Matplotlib-logo.svg.png"/></code>
  <code><img height="40" src="https://avatars.githubusercontent.com/u/22799945?s=200&v=4"></code>
