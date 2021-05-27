@@ -1,34 +1,6 @@
 # Data_Visualization_Final_Project
 Final project of the course Data Visualization, Ariel university.
 
-<!-- TABLE OF CONTENTS -->
-<details open="open">
-  <summary>Content</summary>
-  <ol>
-    <li><a href="#about-the-project">About The Project</a>
-      <ul>
-      <li><a href="#first-part-probability">First part: Probability</a></li>
-      </ul>
-      <ul>
-      <li><a href="#second-part-programming">Second part: Programming</a></li>
-      </ul>
-      <ul>
-      <li><a href="#third-part-machine-learning">Third part: Machine Learning</a>
-      <ul><li>
-        <a href="#classification">Classification</a>
-      </li></ul>
-      <ul><li>
-        <a href="#regression">Regression</a>
-      </li></ul>
-      </li>
-      </ul>
-    <li><a href="#languages-and-tools">Languages and Tools</a></li>
-  </ol>
-</details>
-
-
-
-<!-- ABOUT THE PROJECT -->
 ## About The Project
 
 (to fill)
@@ -61,13 +33,9 @@ Final project of the course Data Visualization, Ariel university.
 
 ---------
 
-<!-- Classification -->
-
 ### Classification
 
 ---------
-
-<!-- Regression -->
 
 ### Regression
 
@@ -83,5 +51,5 @@ Final project of the course Data Visualization, Ariel university.
  <code><img height="40" width="80" src="https://pandas.pydata.org/static/img/partners/anaconda.svg"/></code>
  <code><img height="40" width="80" src="https://matplotlib.org/_static/logo2_compressed.svg"/></code>
  <code><img height="40" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/git/git.png"></code>
- <code><img height="40" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/terminal/terminal.png"></code>
+ <code><img height="40" src="https://ia800804.us.archive.org/11/items/github.com-catboost-catboost_-_2017-07-19_01-39-11/cover.jpg"></code>
   </div>
