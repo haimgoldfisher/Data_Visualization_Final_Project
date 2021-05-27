@@ -45,7 +45,7 @@ Final project of the course Data Visualization, Ariel university.
 
   <div align="center">
  
- <code><img height="40"  src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/python/python.png"></code> 
+ <code><img height="40" src="https://cdn3.iconfinder.com/data/icons/logos-and-brands-adobe/512/267_Python-512.png"/></code> 
  <code><img height="40" src="https://jupyter.org/assets/main-logo.svg"/></code>
  <code><img height="40" src="http://raden.fke.utm.my/_/rsrc/1540088596925/blog/anacondanavigatorlaunchericon/anaconda-icon-1024x1024.png?height=200&width=200"/></code> 
  <code><img height="40" src="https://cdn.worldvectorlogo.com/logos/numpy.svg"/></code>
