@@ -50,6 +50,6 @@ Final project of the course Data Visualization, Ariel university.
  <code><img height="40" width="80" src="https://pandas.pydata.org/static/img/pandas_white.svg"/></code>
  <code><img height="40" width="80" src="https://pandas.pydata.org/static/img/partners/anaconda.svg"/></code>
  <code><img height="40" width="80" src="https://matplotlib.org/_static/logo2_compressed.svg"/></code>
- <code><img height="40" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/git/git.png"></code>
+ <code><img height="40" src="https://avatars.githubusercontent.com/u/22799945?s=200&v=4"></code>
  <code><img height="40" src="https://ia800804.us.archive.org/11/items/github.com-catboost-catboost_-_2017-07-19_01-39-11/cover.jpg"></code>
   </div>
