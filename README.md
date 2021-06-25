@@ -7,37 +7,27 @@ Final project of the course Data Visualization, Ariel university.
 
 ---------
 
-### First part: Probability
+### Part I: Classification Model From Semester A - Wine Type Dataset
 
 (to fill)
 
 ---------
 
-### Second part: Programming
+### Part II: Fashion Mnist Dataset
 
 (to fill)
 
 ---------
 
-### Third part: Machine Learning
+### Part III: Dogs VS Cats Dataset
 
 (to fill)
 
-* Step 1 - Import Libraries and load the data.
-* Step 2 - Data Cleaning, checking for nulls value and fill them.
-* Step 3 - Variable Descriptions, Discover and Visualize the Data to Gain Insights.
-* Step 4 - Split the data into train and test.
-* Step 5 - Applying Machine Learning Models.
-* Step 6 - Evaluting each Model and fine tuning in order to achieve the best results.
-* Step 7 - Determining which Model is optimal for our data set.
-
 ---------
 
-### Classification
+### Part IV: Pandas & ML For Interpersonal Physical Alignment
 
----------
-
-### Regression
+(to fill)
 
 ---------
 
