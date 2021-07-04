@@ -35,7 +35,7 @@ Without neural networks using.
 
   <div align="center">
  
- <code><img height="40" src="https://cdn3.iconfinder.com/data/icons/logos-and-brands-adobe/512/267_Python-512.png" name= "python"/></code> 
+ <code><img alt="A Rockhopper Penguin standing on a beach." height="40" src="https://cdn3.iconfinder.com/data/icons/logos-and-brands-adobe/512/267_Python-512.png"/></code> 
  <code><img height="40" src="https://jupyter.org/assets/main-logo.svg"/></code>
  <code><img height="40" src="http://raden.fke.utm.my/_/rsrc/1540088596925/blog/anacondanavigatorlaunchericon/anaconda-icon-1024x1024.png?height=200&width=200"/></code> 
  <code><img height="40" src="https://cdn.worldvectorlogo.com/logos/numpy.svg"/></code>
