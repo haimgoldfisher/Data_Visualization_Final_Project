@@ -44,4 +44,5 @@ Without neural networks using.
  <code><img height="40" src="https://upload.wikimedia.org/wikipedia/commons/thumb/0/01/Created_with_Matplotlib-logo.svg/1024px-Created_with_Matplotlib-logo.svg.png"/></code>
  <code><img height="40" src="https://user-images.githubusercontent.com/315810/92161415-9e357100-edfe-11ea-917d-f9e33fd60741.png"></code>
  <code><img height="40" src="https://ia800804.us.archive.org/11/items/github.com-catboost-catboost_-_2017-07-19_01-39-11/cover.jpg"></code>
+ <code><img height="40" src="https://user-images.githubusercontent.com/74299934/124384097-80fc5800-dcd8-11eb-9dad-1f1c4bb7805b.png"></code>
   </div>
