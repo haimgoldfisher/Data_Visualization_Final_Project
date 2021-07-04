@@ -31,6 +31,14 @@ Without neural networks using.
 
 ---------
 
+## Resources
+
+- Hands on Machine Learning with Scikit Learn and Tensorflow: http://index-of.es/Varios-2/Hands%20on%20Machine%20Learning%20with%20Scikit%20Learn%20and%20Tensorflow.pdf
+- Kaggle: the world's largest data science community: https://www.kaggle.com/
+- Plotly Python Open Source Graphing Library: https://plotly.com/python/ 
+
+---------
+
 ## Languages and Tools
 
   <div align="center">
