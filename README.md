@@ -15,13 +15,13 @@ Final project of the course Data Visualization, Ariel university.
 
 ### Part II: Fashion Mnist Dataset
 
-(to fill)
+Without neural networks using.
 
 ---------
 
 ### Part III: Dogs VS Cats Dataset
 
-(to fill)
+Without neural networks using.
 
 ---------
 
