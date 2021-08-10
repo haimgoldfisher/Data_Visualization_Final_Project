@@ -37,6 +37,7 @@ Without neural networks using.
 - Scikit-Learn: Machine Learning in Python https://scikit-learn.org/stable/
 - Kaggle: the world's largest data science community: https://www.kaggle.com/
 - OpenCV Python Tutorial: https://www.geeksforgeeks.org/opencv-python-tutorial/#processing
+- CatBoost - open source library for gradient boosting on decision trees https://catboost.ai/
 - Plotly Python Open Source Graphing Library: https://plotly.com/python/ 
 
 ---------
