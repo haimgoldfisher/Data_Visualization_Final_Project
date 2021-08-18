@@ -38,7 +38,8 @@ Without neural networks using.
 - Kaggle: the world's largest data science community: https://www.kaggle.com/
 - OpenCV Python Tutorial: https://www.geeksforgeeks.org/opencv-python-tutorial/#processing
 - CatBoost - open source library for gradient boosting on decision trees https://catboost.ai/
-- Plotly Python Open Source Graphing Library: https://plotly.com/python/ 
+- Plotly Python Open Source Graphing Library: https://plotly.com/python/
+- Data Augmentation techniques for Deep Learning, specific to images: https://nanonets.com/blog/data-augmentation-how-to-use-deep-learning-when-you-have-limited-data-part-2/
 
 ---------
 
