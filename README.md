@@ -9,7 +9,7 @@ Final project of the course Data Visualization, Ariel university.
 
 ### Part I: Classification Model From Semester A - Wine Type Dataset
 
-(to fill)
+The purpose of this notebook is to take a classification model I made last semester and improve it. This is made possible through the models and methods learned during the current semester: dimensionality reduction by PCA, clustering by K-Means, ensemble learning, etc. You can jump directly to the part of the improved model.
 
 Link to kaggle: 
 
@@ -17,7 +17,7 @@ Link to kaggle:
 
 ### Part II: Fashion Mnist Dataset
 
-Without neural networks using.
+It's time to feel fashionable. In this section we will take one of the best known dataset. This is a multivariate classification problem with ten different types of fashion items that we need to classify. The success rates in this issue are quite high because the images are beautifully arranged. Accordingly, we would like to create a compact model that requires as few pixels as possible in order to successfully classify our labels. In this part it is forbidden to use neural networks, because we have not yet studied this subject.
 
 Link to kaggle: 
 
@@ -25,7 +25,7 @@ Link to kaggle:
 
 ### Part III: Dogs VS Cats Dataset
 
-Without neural networks using.
+The truth is that in real life it is not so difficult to differentiate between a dog and a cat. On the other hand, have you ever wondered how Google manages to categorize animal images? In general, this problem seems to be so simple, but when you enter the world of machine learning, it turns out that it is not a simple problem at all. In this part, we will get a huge amount of pictures of dogs and cats. Some are simple and nice pictures and some are pictures that can be very confusing to a computer. We will try to find for us a model that will do its best to classify between pictures of dogs and cats. Recall that even in this part, the use of deep learning methods is prohibited, although they are the leading methods today in the image classification process. According to the knowledge we have earned, we will try to maximize the capabilities of machine learning in order to build the best mode we can offer.
 
 Link to kaggle: 
 
@@ -33,7 +33,7 @@ Link to kaggle:
 
 ### Part IV: Pandas & ML For Interpersonal Physical Alignment
 
-(to fill)
+This part is the icing on the cake. We will try to create a model from a real experiment in order to draw conclusions from it. We will have to work a lot with the Pandas library in order to organize the data in a way that we can work with it. An article is Attached here on the experiment that is recommended to read before reading the notebook. We will try to classify all kinds of hand movements according to the situation they were in. That is, we would like to classify in which situation the person was when he moved his hands. Did he stand alone in an empty room and move them as he pleased? Did he stand in front of another person and move his hands freely? Or he actually moved his hands in front of another person while trying to synchronize with him. There is something very intriguing about our ability to use the tools we received during the course and try to integrate them all in order to build a model. pleasure is guaranteed.
 
 Link to kaggle: 
 
