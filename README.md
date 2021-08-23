@@ -3,6 +3,7 @@ Final project of the course Data Visualization, Ariel university.
 
 ## About The Project
 
+
 ---------
 
 ### Part I: Classification Model From Semester A - Wine Type Dataset
