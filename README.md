@@ -3,7 +3,6 @@ Final project of the course Data Visualization, Ariel university.
 
 ## About The Project
 
-(to fill)
 
 ---------
 
