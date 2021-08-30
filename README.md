@@ -1,5 +1,6 @@
 # Data Visualization Final Project
 Final project of the course Data Visualization, Ariel university.
+
 @ Haim Goldfisher
 ## About The Project
 
