@@ -1,6 +1,6 @@
 # Data Visualization Final Project
 Final project of the course Data Visualization, Ariel university.
-
+@ Haim Goldfisher
 ## About The Project
 
 
@@ -34,7 +34,7 @@ Link to kaggle: https://www.kaggle.com/haimgoldfisher/dogs-vs-cats
 
 This part is the icing on the cake. We will try to create a model from a real experiment in order to draw conclusions from it. We will have to work a lot with the Pandas library in order to organize the data in a way that we can work with it. An article is Attached here on the experiment that is recommended to read before reading the notebook. We will try to classify all kinds of hand movements according to the situation they were in. That is, we would like to classify in which situation the person was when he moved his hands. Did he stand alone in an empty room and move them as he pleased? Did he stand in front of another person and move his hands freely? Or he actually moved his hands in front of another person while trying to synchronize with him. There is something very intriguing about our ability to use the tools we received during the course and try to integrate them all in order to build a model. pleasure is guaranteed.
 
-Link to kaggle: 
+Link to kaggle: https://www.kaggle.com/haimgoldfisher/ml-for-interpersonal-physical-alignment
 
 ---------
 
