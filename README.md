@@ -10,7 +10,7 @@ Final project of the course Data Visualization, Ariel university.
 
 The purpose of this notebook is to take a classification model I made last semester and improve it. This is made possible through the models and methods learned during the current semester: dimensionality reduction by PCA, clustering by K-Means, ensemble learning, etc. You can jump directly to the part of the improved model.
 
-Link to kaggle: 
+Link to kaggle: https://www.kaggle.com/haimgoldfisher/wine-classifier-pca-ensemble-learning
 
 ---------
 
@@ -18,7 +18,7 @@ Link to kaggle:
 
 It's time to feel fashionable. In this section we will take one of the best known dataset. This is a multivariate classification problem with ten different types of fashion items that we need to classify. The success rates in this issue are quite high because the images are beautifully arranged. Accordingly, we would like to create a compact model that requires as few pixels as possible in order to successfully classify our labels. In this part it is forbidden to use neural networks, because we have not yet studied this subject.
 
-Link to kaggle: 
+Link to kaggle: https://www.kaggle.com/haimgoldfisher/fashion-mnist-ica-ensemble-learning
 
 ---------
 
