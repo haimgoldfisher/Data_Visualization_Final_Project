@@ -26,7 +26,7 @@ Link to kaggle: https://www.kaggle.com/haimgoldfisher/fashion-mnist-ica-ensemble
 
 The truth is that in real life it is not so difficult to differentiate between a dog and a cat. On the other hand, have you ever wondered how Google manages to categorize animal images? In general, this problem seems to be so simple, but when you enter the world of machine learning, it turns out that it is not a simple problem at all. In this part, we will get a huge amount of pictures of dogs and cats. Some are simple and nice pictures and some are pictures that can be very confusing to a computer. We will try to find for us a model that will do its best to classify between pictures of dogs and cats. Recall that even in this part, the use of deep learning methods is prohibited, although they are the leading methods today in the image classification process. According to the knowledge we have earned, we will try to maximize the capabilities of machine learning in order to build the best mode we can offer.
 
-Link to kaggle: 
+Link to kaggle: https://www.kaggle.com/haimgoldfisher/dogs-vs-cats
 
 ---------
 
